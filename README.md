@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Query Fixer Google2D](https://github.com/google2D/QueryFixer)
 
+- 🌱 I’m interested in **Full-Stack Development**
+
 - 📫 How to reach me **briannacarrasco09@gmail.com**
 
 - 📄 Know about my experiences [https://briannacarrasco.com/](https://briannacarrasco.com/)
